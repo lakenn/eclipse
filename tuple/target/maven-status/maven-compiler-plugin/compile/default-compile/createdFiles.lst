@@ -1,0 +1,4 @@
+com\eclipseoptions\javatest\tuple\api\Tuple.class
+com\eclipseoptions\javatest\tuple\api\TupleArrayImpl.class
+com\eclipseoptions\javatest\tuple\api\TupleFactory.class
+com\eclipseoptions\javatest\tuple\api\TupleFactoryImpl.class
